@@ -1,1 +1,0 @@
-# renju-first-challenge
